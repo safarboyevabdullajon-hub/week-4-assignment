@@ -2,7 +2,7 @@
 def classify(weight_soup):
     if weight_soup < 148:
         return "Below range"
-    elif weight_soup >= 148 and weight_soup<= 152:
+    elif weight_soup >= 148 and weight_soup <= 152:
         return "In range"
     else:
         return "Above average"
