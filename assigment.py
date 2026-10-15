@@ -27,11 +27,11 @@ for i in range (num_soup):
             above_range += 1
 
 average_weight = calculate_average(total_weight, num_soup)
-print(f"Total weight: {total_weight}")
-print(f"Averege weight: {average_weight}")
-print(f"Below range: {below_range}")
-print(f"In range: {in_range}")
-print(f"Above range: {above_range}")              
+print(f"Total weight: {total_weight} g")
+print(f"Averege weight: {average_weight} g")
+print(f"Below range: {below_range} g")
+print(f"In range: {in_range} g")
+print(f"Above range: {above_range} g")              
     
 
             
